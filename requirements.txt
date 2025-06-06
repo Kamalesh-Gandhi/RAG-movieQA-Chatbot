@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-pinecone
+pinecone-client==2.2.4
+langchain-huggingface
+sentence-transformers
+sqlalchemy
+psycopg2-binary
+pymongo
+python-dotenv
+pandas
