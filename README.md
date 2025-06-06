@@ -62,7 +62,7 @@ The system operates as follows:
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/your_username/your_repo_name.git
+git clone https://github.com/Kamalesh-Gandhi/RAG-movieQA-Chatbot.git
 cd your_repo_name
 
 ```
