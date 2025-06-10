@@ -1,5 +1,5 @@
 # Movie QA Chatbot with RAG 🎬🤖          
- 
+    
 ## Project Description
 
 This project develops an intelligent question-answering chatbot that provides accurate and contextually relevant answers to user queries about movies. Leveraging a Retrieval Augmented Generation (RAG) architecture, the chatbot goes beyond standard Large Language Models (LLMs) by retrieving information from a dedicated knowledge base (PostgreSQL and Pinecone Vector Database) to inform its responses, ensuring up-to-date and specific movie details. The application is built with Streamlit for an interactive user interface and deployed using Docker on AWS EC2 for scalability and accessibility.
